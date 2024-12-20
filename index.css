@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(195, 246, 229);
+  font-family: poppins;
+
+}
+
+.heading{
+  color: blue;
+}
+
+.sub-heading{
+  color: darkred;
+
+}
+
+.sub-heading:hover{
+  color: rgb(195, 65, 0);
+  font-weight: bolder;
+}
+
+.image_container {
+  height: 50px;
+  width: 50px;
+}
+
+.image_container img {
+  border-radius: 50%;
+  /* height: 250px; */
+  /* width: 245px; */
+}
+
+.list-item{
+  color: darkorange;
+}
+
+.list-elements{
+  color: rgb(102, 7, 7);
+}
